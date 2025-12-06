@@ -417,6 +417,6 @@ This project is **not malware**, but due to requiring root privileges, kernel re
 
 ## Disclaimer
 
-This security analysis report is based on the project's state as of December 6, 2025. Project code may be updated at any time, and external dependencies may also change. This report does not constitute a guarantee or recommendation to use this project. Users should assume their own risks when using it.
+This security analysis report is based on the project's state as of December 6, 2025. Project code may be updated at any time, and external dependencies may also change. This report does not constitute a guarantee or recommendation to use this project. Users should assume the risks themselves when using it.
 
 Regular re-review of the project code is recommended, especially when there are major updates to the project.
