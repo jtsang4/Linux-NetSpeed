@@ -1,3 +1,13 @@
+## 🔒 安全提示 / Security Notice
+
+**使用前请阅读安全分析报告 / Please read security analysis before use:**
+- 中文版: [安全分析报告](SECURITY_ANALYSIS.md) | [快速摘要](SECURITY_SUMMARY.md)
+- English: [Security Analysis](SECURITY_ANALYSIS_EN.md) | [Quick Summary](SECURITY_SUMMARY.md)
+
+**风险等级 / Risk Level**: 🟡 中等 (非恶意但有风险) / Moderate (Not malicious but risky)
+
+---
+
 赞助
 <br>
 支付宝
